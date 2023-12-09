@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/iBrokenShadow/Chrome-Autofill-Reader"><img src="https://png2.cleanpng.com/dy/b01c1c7e9ffd4e3775c9df7fa8f32d8c/L0KzQYm3V8E1N5Rsf5H0aYP2gLBuTfxwb5CyfehybD3qgrL3iPlkNZVqi9twbj3ohrrzTgNucZ1qRadrNHG6dYHqWPUxPmE7RqoEMUO4RYGAUcU0OWc1UKcDOEW7QYi1kP5o/kisspng-logo-evil-graphic-design-evil-smile-5b4a7e0c8e0606.8913550715316085885817.png" alt="ChromeAutofillReader"></a>
+  <a href="https://github.com/iBrokenShadow/Chrome-Autofill-Reader"><img src="https://github.com/iBrokenShadow/Chrome-Autofill-Reader/blob/main/Logo.png" alt="ChromeAutofillReader"></a>
   <br>
   Chrome Autofill Reader v1.79
   <br>
@@ -38,7 +38,7 @@ Just run the exe, rest shown on display
 
 ## Contributor:
 
- [BROKEN SHADOW](https://github.com/iBrokenShadow) 
+ [𝔅ʀøᴋᴇ̶ท ₷ɦα₫σω](https://github.com/iBrokenShadow) 
 
 
 
