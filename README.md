@@ -19,8 +19,11 @@ or any version greater than or equal
 ## Features
 
 — The application requires active internet connection to contact the server
+
 — You need the Web Data file of your target system, you can get from my RAT or any Trojan system
+
 — I’m open to all Suggestions to improve or add features, Source code is written in Python and Powershell Scripting
+
 — This application must not be used to cause harm/discomfort/trouble to others
 — By using this, you agree that you cannot hold the contributors responsible for any misuse
 
