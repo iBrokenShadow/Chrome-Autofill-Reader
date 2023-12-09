@@ -10,12 +10,6 @@
 <p align="center">A Free & Open source application to read Autofill Data of your target system and Your Own system’s in Chrome Browser</p>
 
 
-— The application requires active internet connection to contact the server
-— You need the Web Data file of your target system, you can get from my RAT or any Trojan system
-— I’m open to all Suggestions to improve or add features, Source code is written in Python and Powershell Scripting
-— This application must not be used to cause harm/discomfort/trouble to others
-— By using this, you agree that you cannot hold the contributors responsible for any misuse
-
 
 
 ## Compatibility
@@ -24,20 +18,22 @@ or any version greater than or equal
 
 ## Features
 
-- Over 15 integrated messaging and calling APIs included with JSON
-- Unlimited (with abuse protection) and super-fast bombing with multithreading
-- Possibility of international API support (APIs are offline)
-- Flexible with addition of newer APIs with the help of JSON documents
-- Actively supported by the developers with frequent updates and bug-fixes
-- Intuitive auto-update feature and notification fetch feature included
-- Recently made free and open-source for community contributions
-- Modular codebase and snippets can be easily embedded in other program
+— The application requires active internet connection to contact the server
+— You need the Web Data file of your target system, you can get from my RAT or any Trojan system
+— I’m open to all Suggestions to improve or add features, Source code is written in Python and Powershell Scripting
+— This application must not be used to cause harm/discomfort/trouble to others
+— By using this, you agree that you cannot hold the contributors responsible for any misuse
 
 
-## Usage:
+
+## Usage
 
 Just run the exe, rest shown on display
 
+
+## Note
+“Web Data” file can be found here:
+‘C:\Users\….\Appdata\Local\Google\Chrome\Web Data’
 
 
 ## Contributor:
